@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baudrates_name">
+        <item>50</item>
+        <item>75</item>
+        <item>110</item>
+        <item>134</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>1800</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>500000</item>
+        <item>576000</item>
+        <item>921600</item>
+        <item>1000000</item>
+        <item>1152000</item>
+        <item>1500000</item>
+        <item>2000000</item>
+        <item>2500000</item>
+        <item>3000000</item>
+        <item>3500000</item>
+        <item>4000000</item>
+    </string-array>
+    <string-array name="baudrates_value">
+        <item>50</item>
+        <item>75</item>
+        <item>110</item>
+        <item>134</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>1800</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>500000</item>
+        <item>576000</item>
+        <item>921600</item>
+        <item>1000000</item>
+        <item>1152000</item>
+        <item>1500000</item>
+        <item>2000000</item>
+        <item>2500000</item>
+        <item>3000000</item>
+        <item>3500000</item>
+        <item>4000000</item>
+    </string-array>
+    <string-array name="brightness_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="contrast_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="address">地址:</string>
+    <string name="app_name">GpSample</string>
+    <string name="app_update">App软件更新</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="bluetooth_address">蓝牙地址： </string>
+    <string name="bluetooth_device_list">蓝牙设备列表</string>
+    <string name="bluetooth_is_not_enabled">蓝牙没有开启</string>
+    <string name="cancel">取消</string>
+    <string name="close">关闭端口</string>
+    <string name="connect">连接</string>
+    <string name="connected">已连接</string>
+    <string name="connecting">连接中</string>
+    <string name="copy_right_cn">佳博集团 版权所有</string>
+    <string name="copy_right_en">COPYRIGHT@2014 GPRINTER ALL RIGHTS RESERVERD</string>
+    <string name="current_version">当前版本</string>
+    <string name="cut">断开</string>
+    <string name="cutting">断开中</string>
+    <string name="default_ip_address">192.168.123.100</string>
+    <string name="default_port_number">9100</string>
+    <string name="disconnect">未连接</string>
+    <string name="download_complated">下载完成</string>
+    <string name="downloading">正在下载</string>
+    <string name="error_configuration">请配置你的串口信息</string>
+    <string name="error_security">你没有权限读写端口</string>
+    <string name="error_unknown">位置错误，无法打开端口</string>
+    <string name="esc">票据</string>
+    <string name="ethernet">网口</string>
+    <string name="find_new_version">发现新版本</string>
+    <string name="gprinter001">Printer 001</string>
+    <string name="gprinter002">Printer 002</string>
+    <string name="gprinter003">Printer 003</string>
+    <string name="gprinter004">Printer 004</string>
+    <string name="gprinter005">Printer 005</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="init_port_info">接口:未设定 地址:不详</string>
+    <string name="ip_address">ip:</string>
+    <string name="loading">正在载入。。。</string>
+    <string name="none_bluetooth_device_found">没有找到蓝牙设备</string>
+    <string name="none_paired">没有配对的设备</string>
+    <string name="none_usb_device">未连接USB打印机</string>
+    <string name="not_update">暂不更新</string>
+    <string name="ok">确定</string>
+    <string name="open">打开端口</string>
+    <string name="please_wait">请稍后</string>
+    <string name="port">接口:</string>
+    <string name="port_configuration">端口设置</string>
+    <string name="port_number">port:</string>
+    <string name="port_parameters_is_not_save">端口参数未保存！</string>
+    <string name="port_parameters_wrong">端口参数错误！</string>
+    <string name="print_1d_barcode">打印一维码</string>
+    <string name="print_image">打印图片</string>
+    <string name="print_mode">打印模式</string>
+    <string name="print_text">打印文字</string>
+    <string name="query">查询状态</string>
+    <string name="receive">接收的数据</string>
+    <string name="refresh_bluetooth_list">打开蓝牙设备列表</string>
+    <string name="refresh_usb_device">扫描USB设备</string>
+    <string name="scan">扫描</string>
+    <string name="scaning">正在扫描。。。</string>
+    <string name="select_bluetooth_device">选择蓝牙设备</string>
+    <string name="str_all_black">全黑测试</string>
+    <string name="str_all_white">全白测试</string>
+    <string name="str_change_contrast">设置对比度</string>
+    <string name="str_clear">清屏</string>
+    <string name="str_close_port">关闭端口</string>
+    <string name="str_contrast">对比度</string>
+    <string name="str_display_bitmap">显示位图</string>
+    <string name="str_get_backlight_status">获取背光灯状态</string>
+    <string name="str_get_backlight_timeout">获取背光灯超时状态</string>
+    <string name="str_get_cursor_position">获取光标位置</string>
+    <string name="str_get_row_and_column">获取客显行列数量</string>
+    <string name="str_have_been_turn_off_backlight">已关闭了背光灯</string>
+    <string name="str_input_display_timeout">请输入背光灯超时时间</string>
+    <string name="str_input_in_bebind_position">光标后输入文字</string>
+    <string name="str_input_in_current_position">光标位置输入文字</string>
+    <string name="str_no_permission">没有权限去操作</string>
+    <string name="str_ok">确定</string>
+    <string name="str_open_port">打开端口</string>
+    <string name="str_please_input_x_y">请输入X坐标与Y坐标</string>
+    <string name="str_port_status">端口状态</string>
+    <string name="str_recovery">恢复</string>
+    <string name="str_reset">清屏并重置光标位置</string>
+    <string name="str_set_backlight_timeout">设置屏幕超时时间</string>
+    <string name="str_set_brightness">设置亮度:</string>
+    <string name="str_set_contrast">设置对比度:</string>
+    <string name="str_set_cursor_position">设置光标位置</string>
+    <string name="str_set_successful">设置成功</string>
+    <string name="str_turn_off_backlight">关闭背光灯</string>
+    <string name="str_turn_on_backlight">打开背光灯</string>
+    <string name="str_update">更新客显程序</string>
+    <string name="str_us_cn">中英文显示</string>
+    <string name="title_other_devices">新设备</string>
+    <string name="title_paired_devices">已配对</string>
+    <string name="tsc">标签</string>
+    <string name="update">更新</string>
+    <string name="usb">USB</string>
+    <string name="usb_address">USB： </string>
+    <string name="usb_devices_list">USB设备列表</string>
+    <string name="usb_info">扫描到的设备USB信息</string>
+    <string name="whether_or_not_setup_new_app">是否安装新的应用</string>
+    <string name="whether_or_not_to_update">是否更新？</string>
+</resources>

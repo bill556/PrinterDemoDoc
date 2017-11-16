@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/labelprint.png",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/drawable-mdpi/labelprint.png"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_printer.png",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/drawable-mdpi/ic_printer.png"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/launcher.png",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/drawable-mdpi/launcher.png"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

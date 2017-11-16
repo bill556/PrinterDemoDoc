@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/black90"
+    
+    > 
+    <ListView android:id="@+id/lvUsbDevices"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stackFromBottom="true"
+        android:layout_margin="5dp" 
+        android:background="@drawable/background_corner"  
+    />
+</LinearLayout>

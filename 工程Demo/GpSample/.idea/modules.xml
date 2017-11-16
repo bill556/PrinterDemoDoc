@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GpSample(客显).iml" filepath="$PROJECT_DIR$/GpSample(客显).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../上报打印机和设备信息/GprinterSDKV21/GprinterSDKV21.iml" filepath="$PROJECT_DIR$/../../上报打印机和设备信息/GprinterSDKV21/GprinterSDKV21.iml" />
+    </modules>
+  </component>
+</project>

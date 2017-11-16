@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillViewport="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#00bfff"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btOpenDialogue"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="40dip"
+            android:background="#00A398"
+            android:onClick="openPortDialogueClicked"
+            android:text="Open connect dialogue" />
+
+        <Button
+            android:id="@+id/btPrintTestPage"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="10dip"
+            android:background="#00A398"
+            android:onClick="printTestPageClicked"
+            android:text="Print test page" />
+
+        <Button
+            android:id="@+id/btGetStatus"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="10dip"
+            android:background="#00A398"
+            android:onClick="getPrinterStatusClicked"
+            android:text="Get printer status" />
+
+        <Button
+            android:id="@+id/btGetPrinterCommandType"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="10dip"
+            android:background="#00A398"
+            android:onClick="getPrinterCommandTypeClicked"
+            android:text="Get command type" />
+
+        <Button
+            android:id="@+id/btPrintReceipt"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="10dip"
+            android:background="#00A398"
+            android:onClick="printReceiptClicked"
+            android:text="Print receipt" />
+
+        <Button
+            android:id="@+id/btPrintLabel"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="10dip"
+            android:background="#00A398"
+            android:onClick="printLabelClicked"
+            android:text="Print label" />
+
+        <EditText
+            android:id="@+id/etPrintCopies"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="10dip"
+            android:inputType="number"
+            android:text="10" />
+
+        <Button
+            android:id="@+id/btPrintTest"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="10dip"
+            android:background="#00A398"
+            android:onClick="printTestClicked"
+            android:text="Continuous printing" />
+
+        <Button
+            android:id="@+id/btCustomerDisplay"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="10dip"
+            android:background="#00A398"
+            android:onClick="customerDisplayerClicked"
+            android:text="CustomerDisplay" />
+
+        <CheckBox
+            android:id="@+id/btCheckBox"
+            android:layout_width="300dip"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="135dip"
+            android:layout_marginTop="10dip"
+            android:background="#00A398"
+            android:text="参与用户体验" />
+    </LinearLayout>
+
+</ScrollView>

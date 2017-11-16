@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/dialog_port.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/dialog_port.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/usb_device_name_item.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/usb_device_name_item.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/dialog_usb_list.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/dialog_usb_list.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/dialog_update.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/dialog_update.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/main_screen_list_item.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/main_screen_list_item.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/custom.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/custom.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/bluetooth_device_name_item.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/bluetooth_device_name_item.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/dialog_port_configuration.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/dialog_port_configuration.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/layout/dialog_bluetooth_list.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/layout/dialog_bluetooth_list.xml"
+    }
+]

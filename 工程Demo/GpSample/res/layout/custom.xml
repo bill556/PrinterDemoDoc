@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btnOpenPort"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_open_port"/>
+
+            <Button
+                android:id="@+id/btnClosePort"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_close_port"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@+id/btnAllBlack"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/str_all_black"/>
+
+                <Button
+                    android:id="@+id/btnRecovery"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/str_recovery"/>
+
+                <Button
+                    android:id="@+id/btnAllWhite"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/str_all_white"/>
+
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnUsCn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/str_us_cn"/>
+
+            <Button
+                android:id="@+id/btnGetPortStatus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_port_status"/>
+
+            <Button
+                android:id="@+id/btnClear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_clear"/>
+
+            <Button
+                android:id="@+id/btnReset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_reset"/>
+
+            <Button
+                android:id="@+id/btnTurnOnBackLight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_turn_on_backlight"/>
+
+            <Button
+                android:id="@+id/btnOffBackLight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_turn_off_backlight"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/str_set_contrast"
+                    android:textSize="25sp"/>
+
+                <Spinner
+                    android:id="@+id/spinner_contrast"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:entries="@array/contrast_array"
+                    android:padding="10dp"
+                    android:prompt="@string/str_contrast"
+                    android:spinnerMode="dialog">
+
+                </Spinner>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnSetContrast"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_change_contrast"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/str_set_brightness"
+                    android:textSize="25sp"/>
+
+                <Spinner
+                    android:id="@+id/spinner_brightness"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:entries="@array/brightness_array"
+                    android:padding="10dp"
+                    android:prompt="@string/str_contrast"
+                    android:spinnerMode="dialog">
+
+                </Spinner>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnBrightness"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_set_brightness"/>
+
+            <EditText
+                android:id="@+id/et_display_timeout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="timeout (unit: seconds)"
+                android:inputType="number"/>
+
+            <Button
+                android:id="@+id/btnSetDisplayTimeout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_set_backlight_timeout"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/et_x"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:hint="x coordinate"
+                    android:inputType="number"/>
+
+                <EditText
+                    android:id="@+id/et_y"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:hint="y coordinate"
+                    android:inputType="number"/>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnSetCursorPosition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_set_cursor_position"/>
+
+
+            <Button
+                android:id="@+id/btnDisplayBitmap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_display_bitmap"/>
+
+            <EditText
+                android:id="@+id/et_input_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Input text"/>
+
+            <Button
+                android:id="@+id/btnSetTextCurrentCursor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_input_in_current_position"/>
+
+            <Button
+                android:id="@+id/btnSetTextBebindCursor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_input_in_bebind_position"/>
+
+
+            <Button
+                android:id="@+id/btnGetCursorPosition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_get_cursor_position"/>
+
+            <Button
+                android:id="@+id/btnGetDisplayRowAndColumn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_get_row_and_column"/>
+
+            <Button
+                android:id="@+id/btnGetDisplayStatus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_get_backlight_status"/>
+
+            <Button
+                android:id="@+id/btnGetDisplayTimeout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_get_backlight_timeout"/>
+
+        </LinearLayout>
+
+</ScrollView>

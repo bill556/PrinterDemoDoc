@@ -1,0 +1,19 @@
+2.2.0更新:
+1.添加了客显的支持，具体查看api文档以及GpSample工程的代码
+2.该版本需要在AndroidManifest.xml文件声明AllService服务，否则连接不成功
+
+
+2.2.1更新：
+	修改了查询打印机状态的接口，修复原来查询状态无法获得查询状态的bug。。
+	
+	修改方法：把GpSample工程中的包com.gprinter.aidl下面的GpService.aidl的内容复制到自己工程中的GpService.aidl中
+	
+	接口修改的主要内容：
+		由原来的int queryPrinterStatus(int PrinterId,int Timesout);改成了
+  		void queryPrinterStatus(int PrinterId,int Timesout,int requestCode);
+		然后以广播的形式得到打印机的状态。
+
+	修改后的使用：
+		具体查看GpSample工程中MainActivity中的mBroadcastReceiver中的定义，以及onCreate方法中的广播注册，以及onDestroy中广播的注销
+
+

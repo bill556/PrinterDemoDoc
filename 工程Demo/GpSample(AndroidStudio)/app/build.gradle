@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        applicationId "com.sample"
+        minSdkVersion 14
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/gprintersdkv22.jar')
+    compile files('libs/jcc-bate-0.7.3.jar')
+    compile files('libs/ksoap2-android-assembly-2.5.2-jar-with-dependencies.jar')
+    compile files('libs/xUtils-2.6.14.jar')
+}

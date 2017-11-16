@@ -1,0 +1,219 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:2:1-107:12
+	package
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:3:5-25
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:11:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:14:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.hardware.usb.accessory
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:16:22-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:20:5-84
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:20:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:22:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:24:5-73
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:24:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:25:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:26:22-76
+uses-feature#android.hardware.usb.host
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:28:5-62
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:28:19-59
+application
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:30:5-105:19
+	android:label
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:32:9-42
+	android:theme
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:34:9-40
+activity#com.gprinter.sample.MainActivity
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:36:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:41:27-74
+receiver#com.gprinter.sample.DeviceBootReceiver
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:45:9-49:20
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:45:19-72
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:46:13-48:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:47:17-79
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:47:25-76
+activity#com.gprinter.sample.PrinterConnectDialog
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:51:9-69:20
+	android:label
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:54:13-45
+	android:configChanges
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:53:13-74
+	android:theme
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:55:13-55
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:52:13-68
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:56:13-58:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:57:17-90
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:57:25-87
+intent-filter#android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:59:13-61:29
+action#android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:60:17-90
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:60:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:63:13-65:57
+	android:resource
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:65:17-54
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:64:17-79
+meta-data#android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:66:13-68:57
+	android:resource
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:68:17-54
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:67:17-79
+activity#com.gprinter.sample.PortConfigurationActivity
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:71:9-76:20
+	android:label
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:74:13-55
+	android:configChanges
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:73:13-74
+	android:theme
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:72:13-73
+activity#com.gprinter.sample.BluetoothDeviceList
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:78:9-83:20
+	android:label
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:81:13-58
+	android:configChanges
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:80:13-74
+	android:theme
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:79:13-67
+activity#com.gprinter.sample.UsbDeviceList
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:85:9-90:20
+	android:label
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:88:13-53
+	android:configChanges
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:87:13-74
+	android:theme
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:89:13-56
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:86:13-61
+activity#com.gprinter.sample.CustomerDiaplayActivity
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:91:9-92:20
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:91:19-77
+service#com.gprinter.service.GpPrintService
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:94:9-102:19
+	android:enabled
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:96:13-35
+	android:label
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:98:13-43
+	android:exported
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:97:13-36
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:95:13-63
+intent-filter#com.gprinter.aidl.GpPrintService
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:99:13-101:29
+action#com.gprinter.aidl.GpPrintService
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:100:17-75
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:100:25-72
+service#com.gprinter.service.AllService
+ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:103:9-104:19
+	android:name
+		ADDED from /Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/AndroidManifest.xml:103:18-64

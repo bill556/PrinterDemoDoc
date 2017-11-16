@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/drawable/background_corner.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/drawable/background_corner.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/drawable/button_style.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/drawable/button_style.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/drawable/edittext_style.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/drawable/edittext_style.xml"
+    },
+    {
+        "merged": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/build/intermediates/res/merged/debug/drawable/button_connect_style.xml",
+        "source": "/Users/Cerie/Desktop/GprinterSDKForAndroid_V2.2.1/GprinterSDKForAndroid/工程Demo/GpSample(AndroidStudio)/app/src/main/res/drawable/button_connect_style.xml"
+    }
+]
